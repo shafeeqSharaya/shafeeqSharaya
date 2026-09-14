@@ -4,7 +4,7 @@
 
 🎓 Software Engineering Graduate  
 💻 Passionate about building practical and efficient software solutions  
-🚀 Interested in Backend Development, Mobile Applications, and Enterprise Software
+🚀 Interested in Backend Development, Data analysis, and Enterprise Software
 
 ---
 
@@ -20,9 +20,6 @@ My experience includes working with **C#, ASP.NET Core MVC, Flutter,
 Dart, SQL, JavaScript, and SAP ABAP**, along with database integration,
 CRUD operations, authentication, and user-centered application design.
 
-Currently, I am looking for opportunities where I can grow as a
-Software Engineer, contribute to real-world projects, and build
-high-quality software.
 
 ---
 
@@ -155,22 +152,13 @@ An interactive web platform for learning and exploring recipes.
 
 # 🌍 Languages
 
-- 🇯🇴 Arabic — Native
-- 🇬🇧 English — Fluent
+-  Arabic — Native
+-  English — Fluent
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shafeeqSharaya&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqSharaya&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</div>
-
----
 
 # 🤝 Connect With Me
 
