@@ -1,6 +1,6 @@
 # Hi, I'm Shafeeq Alsharaya 👋
 
-### Software Engineer | C# & .NET | Flutter | SAP ABAP | SQL
+### Software Engineer | Python | C# & .NET | Flutter | SAP ABAP | SQL
 
 🎓 Software Engineering Graduate  
 💻 Passionate about building practical and efficient software solutions  
