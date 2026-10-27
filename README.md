@@ -4,7 +4,7 @@
 
 🎓 Software Engineering Graduate  
 💻 Passionate about building practical and efficient software solutions  
-🚀 Interested in Backend Development, Data analysis, and Enterprise Software
+🚀 Interested in AI Engineering, maching learning,  Backend Development, and Enterprise Software
 
 ---
 
